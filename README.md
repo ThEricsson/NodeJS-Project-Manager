@@ -1,4 +1,4 @@
-# NodeJS-ProjectOfProjects
+# NodeJS-Project-Manager
 
 ## About
 BackEnd de proyecto Project-Manager, requiere de una base de datos MongoDB, 
